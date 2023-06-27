@@ -156,6 +156,10 @@ h2{
     padding: 25 px;
   }
 
+  .greeting{
+    text-align: center;
+  }
+
   @media (max-width: 768px) {
     .column {
       flex: 100%;
@@ -208,4 +212,7 @@ h2{
     }
   }
   
+  .greeting{
+    text-align: center;
+  }
  
